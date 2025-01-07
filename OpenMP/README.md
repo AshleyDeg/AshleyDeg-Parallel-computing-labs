@@ -1,5 +1,4 @@
-# Problem 2 - Assignment 1
-Authors: Ashley Degl'Innocenti, Dorian Briodeau
+# OpenMP and C++
 Implement blurring and edge detection filters. 
 
 ### Prerequisites
