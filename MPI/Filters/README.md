@@ -1,6 +1,5 @@
-# Problem 1 - Assignment 1
-Authors: Ashley Degl'Innocenti, Dorian Briodeau
-Approximate π using the Bailey-Borwein-Plouffe formula.
+# MPI and C++
+Implement blurring and edge detection filters.
 
 ### Prerequisites
 - CMake (CMAKE_CXX_STANDARD 17)
