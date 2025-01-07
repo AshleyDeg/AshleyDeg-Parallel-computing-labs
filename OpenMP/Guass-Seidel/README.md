@@ -1,5 +1,4 @@
-# Problem 4 - Assignment 1
-Authors: Ashley Degl'Innocenti, Dorian Briodeau
+# OpenMP and C++
 Grid solver for heat spread 
 
 ### Prerequisites
@@ -9,8 +8,11 @@ Grid solver for heat spread
 
 ### Instructions to run
 Open terminal, navigate to project directory, and run CMake to generate build files.
-cmake -S . -B build
-cd build
-make
-./Problem_4
 
+cmake -S . -B build
+
+cd build
+
+make
+
+./Problem_4
